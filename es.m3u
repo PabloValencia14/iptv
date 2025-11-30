@@ -1,56 +1,56 @@
 #EXTM3U
 
 # 1 La 1 HD (RTVE oficial 720p)
-#EXTINF:-1 tvg-id="La1.es@SD" tvg-name="La 1 HD" tvg-logo="",La 1 HD
-https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:-1 tvg-id="La1.es@SD" tvg-name="La 1 FHD" tvg-logo="",La 1 HD
+http://176.65.146.237:8401/play/a095/index.m3u8
 
 # 2 La 2
-#EXTINF:-1 tvg-id="La2.es@SD" tvg-name="La 2" tvg-logo="",La 2
-https://ztnr.rtve.es/ztnr/1688885.m3u8
+#EXTINF:-1 tvg-id="La2.es@SD" tvg-name="La 2 FHD" tvg-logo="",La 2
+https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
 
 # 3 Antena 3
 #EXTINF:-1 tvg-id="Antena3.es@SD" tvg-name="Antena 3" tvg-logo="",Antena 3
-http://176.65.146.237:8401/play/a0ao/index.m3u8
+http://176.65.146.237:8401/play/a0ae/index.m3u8
 
 # 4 Cuatro
 #EXTINF:-1 tvg-id="Cuatro.es@SD" tvg-name="Cuatro" tvg-logo="",Cuatro
-http://176.65.146.237:8401/play/a01n/index.m3u8
+http://176.65.146.237:8401/play/a09s/index.m3u8
 
 # 5 Telecinco
 #EXTINF:-1 tvg-id="Telecinco.es@SD" tvg-name="Telecinco" tvg-logo="",Telecinco
-http://176.65.146.237:8401/play/a01o/index.m3u8
+http://176.65.146.237:8401/play/a09r/index.m3u8
 
 # 6 La Sexta
 #EXTINF:-1 tvg-id="LaSexta.es@SD" tvg-name="La Sexta" tvg-logo="",La Sexta
-http://176.65.146.237:8401/play/a0a9/index.m3u8
+http://176.65.146.237:8401/play/a0af/index.m3u8
 
 # 7 FDF
 #EXTINF:-1 tvg-id="FactoriadeFiccion.es@SD" tvg-name="FDF" tvg-logo="",FDF
-http://176.65.146.237:8401/play/a05l/index.m3u8
+http://176.65.146.237:8401/play/a09p/index.m3u8
 
 # 8 Energy
 #EXTINF:-1 tvg-id="Energy.es@SD" tvg-name="Energy" tvg-logo="",Energy
-http://176.65.146.237:8401/play/a09n/index.m3u8
+http://176.65.146.237:8401/play/a0ac/index.m3u8
 
 # 9 Divinity
 #EXTINF:-1 tvg-id="Divinity.es@SD" tvg-name="Divinity" tvg-logo="",Divinity
-http://176.65.146.237:8401/play/a09o/index.m3u8
+http://176.65.146.237:8401/play/a09q/index.m3u8
 
 # 10 Atreseries
 #EXTINF:-1 tvg-id="Atreseries.es@SD" tvg-name="Atreseries" tvg-logo="",Atreseries
-http://176.65.146.237:8401/play/a0a1/index.m3u8
+http://176.65.146.237:8401/play/a0ai/index.m3u8
 
 # 11 Be Mad
 #EXTINF:-1 tvg-id="BeMad.es@SD" tvg-name="Be Mad" tvg-logo="",Be Mad
-http://176.65.146.237:8401/play/a0a4/index.m3u8
+http://176.65.146.237:8401/play/a0aj/index.m3u8
 
 # 12 Neox
 #EXTINF:-1 tvg-id="Neox.es@SD" tvg-name="Neox" tvg-logo="",Neox
-http://176.65.146.237:8401/play/a0a2/index.m3u8
+http://176.65.146.237:8401/play/a0ag/index.m3u8
 
 # 13 Nova
 #EXTINF:-1 tvg-id="Nova.es@SD" tvg-name="Nova" tvg-logo="",Nova
-http://176.65.146.237:8401/play/a0a3/index.m3u8
+http://176.65.146.237:8401/play/a0ah/index.m3u8
 
 # 14 Mega
 #EXTINF:-1 tvg-id="Mega.es@SD" tvg-name="Mega" tvg-logo="",Mega
@@ -58,39 +58,31 @@ http://176.65.146.237:8401/play/a0a5/index.m3u8
 
 # 15 TEN
 #EXTINF:-1 tvg-id="Ten.es@SD" tvg-name="TEN" tvg-logo="",TEN
-http://176.65.146.237:8401/play/a0a6/index.m3u8
+http://176.65.146.237:8401/play/a0al/index.m3u8
 
 # 16 24 Horas
 #EXTINF:-1 tvg-id="24Horas.es@SD" tvg-name="24 Horas" tvg-logo="https://i.imgur.com/QYGrq71.png",24 Horas
-https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
+https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vlldndmow4yre/24HES.m3u8
 
 # 17 24 Horas Internacional
 #EXTINF:-1 tvg-id="24HorasInternacional.es@SD" tvg-name="24 Horas Internacional" tvg-logo="",24 Horas Internacional
-https://rtvehlslivestream.akamaized.net/rtvesec/24h/kanaren_24h_main.m3u8
+https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-HLS8/canal24horas.m3u8
 
 # 18 Bom Cine
 #EXTINF:-1 tvg-id="BomCine.es@SD" tvg-name="Bom Cine" tvg-logo="",Bom Cine
-http://176.65.146.237:8401/play/a0a7/index.m3u8
+http://176.65.146.237:8401/play/a09d/index.m3u8
 
 # 19 Paramount Network Spain
 #EXTINF:-1 tvg-id="ParamountNetwork.es@SD" tvg-name="Paramount Network Spain" tvg-logo="",Paramount Network Spain
-http://176.65.146.237:8401/play/a09p/index.m3u8
-
-# 20 Trece (fuente estable enetres)
-#EXTINF:-1 tvg-id="Trece.es@SD" tvg-name="Trece" tvg-logo="",Trece
-https://live-edge01.tvconsolv.com/tresce/livestream/master.m3u8
-
-# 21 Antena 3 Internacional
-#EXTINF:-1 tvg-id="Antena3Internacional.es@SD" tvg-name="Antena 3 Internacional" tvg-logo="",Antena 3 Internacional
-http://176.65.146.237:8401/play/a0a8/index.m3u8
+http://176.65.146.237:8401/play/a09i/index.m3u8
 
 # 22 Canal Sur (general)
 #EXTINF:-1 tvg-id="CanalSur.es@SD" tvg-name="Canal Sur" tvg-logo="",Canal Sur
-https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
+http://176.65.146.237:8401/play/a09c/index.m3u8
 
 # 23 Canal Sur Andalucía
 #EXTINF:-1 tvg-id="CanalSurAndalucia.es@SD" tvg-name="Canal Sur Andalucía" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200",Canal Sur Andalucía
-https://d35x6iaiw8f75z.cloudfront.net/out/v1/3f1af2fcd5614f7f8ad7a0cbc0673022/index.m3u8
+https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
 
 # 24 Canal Sur Andalucía 2
 #EXTINF:-1 tvg-id="CanalSurAndalucia2.es@SD" tvg-name="Canal Sur Andalucía 2" tvg-logo="https://i.ibb.co/Y7bGhpm/canalsur2hd.png",Canal Sur Andalucía 2
@@ -119,3 +111,4 @@ https://atres-live.ondacero.es/live/ondacero/bitrate_1.m3u8
 # Cadena SER
 #EXTINF:-1 tvg-id="CadenaSER.es" tvg-name="Cadena SER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Cadena_Ser_logo-2.jpg",Cadena SER
 https://25353.live.streamtheworld.com/CADENASERAAC/HLS/playlist.m3u8
+
