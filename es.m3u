@@ -1,95 +1,95 @@
 #EXTM3U
 
 # 1 La 1
-#EXTINF:-1 tvg-id="La1.es@SD" tvg-name="La 1 UHD" tvg-logo="https://pbs.twimg.com/profile_images/1921959108862709760/fe5Tqhlh_200x200.jpg",La 1 UHD (2160p)
+#EXTINF:-1 tvg-id="La.1.es" tvg-name="La 1 UHD" tvg-logo="https://pbs.twimg.com/profile_images/1921959108862709760/fe5Tqhlh_200x200.jpg",La 1 UHD (2160p)
 http://176.65.146.237:8401/play/a09u/index.m3u8
 
 # 2 La 2
-#EXTINF:-1 tvg-id="La2.es@SD" tvg-name="La 2 FHD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kqgHWySi5xprs1VFCNCX0IKNT8yXBLZC43JMoB8j0JUto=s200",La 2
+#EXTINF:-1 tvg-id="La.2.es" tvg-name="La 2 FHD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kqgHWySi5xprs1VFCNCX0IKNT8yXBLZC43JMoB8j0JUto=s200",La 2
 https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
 
 # 3 Antena 3
-#EXTINF:-1 tvg-id="Antena3.es@SD" tvg-name="Antena 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Antena_3_2025_%28sin_wordmark%29.svg/250px-Antena_3_2025_%28sin_wordmark%29.svg.png",Antena 3
+#EXTINF:-1 tvg-id="Antena.3.es" tvg-name="Antena 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Antena_3_2025_%28sin_wordmark%29.svg/250px-Antena_3_2025_%28sin_wordmark%29.svg.png",Antena 3
 http://176.65.146.237:8401/play/a0ae/index.m3u8
 
 # 4 Cuatro
-#EXTINF:-1 tvg-id="Cuatro.es@SD" tvg-name="Cuatro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Cuatro_logo.svg/2048px-Cuatro_logo.svg.png",Cuatro
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="Cuatro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Cuatro_logo.svg/2048px-Cuatro_logo.svg.png",Cuatro
 http://176.65.146.237:8401/play/a09s/index.m3u8
 
 # 5 Telecinco
-#EXTINF:-1 tvg-id="Telecinco.es@SD" tvg-name="Telecinco" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telecinco_2024_Logo.svg/1280px-Telecinco_2024_Logo.svg.png",Telecinco
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="Telecinco" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telecinco_2024_Logo.svg/1280px-Telecinco_2024_Logo.svg.png",Telecinco
 http://176.65.146.237:8401/play/a09r/index.m3u8
 
 # 6 La Sexta
-#EXTINF:-1 tvg-id="LaSexta.es@SD" tvg-name="La Sexta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/LaSexta_2024_Logo.svg/250px-LaSexta_2024_Logo.svg.png",La Sexta
+#EXTINF:-1 tvg-id="laSexta.es" tvg-name="La Sexta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/LaSexta_2024_Logo.svg/250px-LaSexta_2024_Logo.svg.png",La Sexta
 http://176.65.146.237:8401/play/a0af/index.m3u8
 
 # 7 FDF
-#EXTINF:-1 tvg-id="FactoriadeFiccion.es@SD" tvg-name="FDF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factoría_de_Ficción.svg/250px-Factoría_de_Ficción.svg.png",FDF
+#EXTINF:-1 tvg-id="FDF.Telecinco.es" tvg-name="FDF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factoría_de_Ficción.svg/250px-Factoría_de_Ficción.svg.png",FDF
 http://176.65.146.237:8401/play/a09p/index.m3u8
 
 # 8 Energy
-#EXTINF:-1 tvg-id="Energy.es@SD" tvg-name="Energy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/512px-Energy.svg.png",Energy
+#EXTINF:-1 tvg-id="Energy.es" tvg-name="Energy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/512px-Energy.svg.png",Energy
 http://176.65.146.237:8401/play/a0ac/index.m3u8
 
 # 9 Divinity
-#EXTINF:-1 tvg-id="Divinity.es@SD" tvg-name="Divinity" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/250px-Divinity.svg.png",Divinity
+#EXTINF:-1 tvg-id="Divinity.es" tvg-name="Divinity" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/250px-Divinity.svg.png",Divinity
 http://176.65.146.237:8401/play/a09q/index.m3u8
 
 # 10 Atreseries
-#EXTINF:-1 tvg-id="Atreseries.es@SD" tvg-name="Atreseries" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/2560px-Atreseries_2020_logo.svg.png",Atreseries
+#EXTINF:-1 tvg-id="Atreseries.es" tvg-name="Atreseries" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/2560px-Atreseries_2020_logo.svg.png",Atreseries
 http://176.65.146.237:8401/play/a0ai/index.m3u8
 
 # 11 Be Mad
-#EXTINF:-1 tvg-id="BeMad.es@SD" tvg-name="Be Mad" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/BeMad_2022_Logo.svg/512px-BeMad_2022_Logo.svg.png?20240123202318",Be Mad
+#EXTINF:-1 tvg-id="Be.Mad.es" tvg-name="Be Mad" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/BeMad_2022_Logo.svg/512px-BeMad_2022_Logo.svg.png?20240123202318",Be Mad
 http://176.65.146.237:8401/play/a0aj/index.m3u8
 
 # 12 Neox
-#EXTINF:-1 tvg-id="Neox.es@SD" tvg-name="Neox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Neox_2023_logo.svg/1280px-Neox_2023_logo.svg.png",Neox
+#EXTINF:-1 tvg-id="Neox.es" tvg-name="Neox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Neox_2023_logo.svg/1280px-Neox_2023_logo.svg.png",Neox
 http://176.65.146.237:8401/play/a0ag/index.m3u8
 
 # 13 Nova
-#EXTINF:-1 tvg-id="Nova.es@SD" tvg-name="Nova" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/2560px-Nova.svg.png",Nova
+#EXTINF:-1 tvg-id="Nova.es" tvg-name="Nova" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/2560px-Nova.svg.png",Nova
 http://176.65.146.237:8401/play/a0ah/index.m3u8
 
 # 14 Mega
-#EXTINF:-1 tvg-id="Mega.es@SD" tvg-name="Mega" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2560px-MEGA.svg.png",Mega
+#EXTINF:-1 tvg-id="Mega.es" tvg-name="Mega" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2560px-MEGA.svg.png",Mega
 http://176.65.146.237:8401/play/a0a5/index.m3u8
 
 # 15 TEN
-#EXTINF:-1 tvg-id="Ten.es@SD" tvg-name="TEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/TEN_2024_Logo.svg/2560px-TEN_2024_Logo.svg.png",TEN
+#EXTINF:-1 tvg-id="Ten.es" tvg-name="TEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/TEN_2024_Logo.svg/2560px-TEN_2024_Logo.svg.png",TEN
 http://176.65.146.237:8401/play/a0al/index.m3u8
 
 # 16 24 Horas
-#EXTINF:-1 tvg-id="24Horas.es@SD" tvg-name="24 Horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logo_Canal_24_horas.svg/2560px-Logo_Canal_24_horas.svg.png",24 Horas
+#EXTINF:-1 tvg-id="Canal.24.h.es" tvg-name="24 Horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logo_Canal_24_horas.svg/2560px-Logo_Canal_24_horas.svg.png",24 Horas
 https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vlldndmow4yre/24HES.m3u8
 
 # 17 24 Horas Internacional
-#EXTINF:-1 tvg-id="24HorasInternacional.es@SD" tvg-name="24 Horas Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logo_Canal_24_horas.svg/2560px-Logo_Canal_24_horas.svg.png",24 Horas Internacional
+#EXTINF:-1 tvg-id="Canal.24.h.es" tvg-name="24 Horas Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logo_Canal_24_horas.svg/2560px-Logo_Canal_24_horas.svg.png",24 Horas Internacional
 https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-HLS8/canal24horas.m3u8
 
 # 17 Teledeporte
-#EXTINF:-1 tvg-id="TDP.TV" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" tvg-name="Teledeporte",Teledeporte GEO
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" tvg-name="Teledeporte",Teledeporte GEO
 https://ztnr.rtve.es/ztnr/1712295.m3u8
 
 # 18 Bom Cine
-#EXTINF:-1 tvg-id="BomCine.es@SD" tvg-name="Bom Cine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo-bom.svg/250px-Logo-bom.svg.png",Bom Cine
+#EXTINF:-1 tvg-id="BOM.Cine.es" tvg-name="Bom Cine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo-bom.svg/250px-Logo-bom.svg.png",Bom Cine
 http://176.65.146.237:8401/play/a09d/index.m3u8
 
 # 19 Paramount Network Spain
-#EXTINF:-1 tvg-id="ParamountNetwork.es@SD" tvg-name="Paramount Network Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Paramount_Network_2024.svg/250px-Paramount_Network_2024.svg.png",Paramount Network Spain
+#EXTINF:-1 tvg-id="Paramount.Network.es" tvg-name="Paramount Network Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Paramount_Network_2024.svg/250px-Paramount_Network_2024.svg.png",Paramount Network Spain
 http://176.65.146.237:8401/play/a09i/index.m3u8
 
 # 22 Canal Sur (general)
-#EXTINF:-1 tvg-id="CanalSur.es@SD" tvg-name="Canal Sur" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200",Canal Sur
+#EXTINF:-1 tvg-id="Canal.Sur.es" tvg-name="Canal Sur" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200",Canal Sur
 http://176.65.146.237:8401/play/a09c/index.m3u8
 
 # 23 Canal Sur Andalucía
-#EXTINF:-1 tvg-id="CanalSurAndalucia.es@SD" tvg-name="Canal Sur Andalucía" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200",Canal Sur Andalucía
+#EXTINF:-1 tvg-id="Canal.Sur.AndalucÃ­a.es" tvg-name="Canal Sur Andalucía" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200",Canal Sur Andalucía
 https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
 
 # 24 Canal Sur Andalucía 2
-#EXTINF:-1 tvg-id="CanalSurAndalucia2.es@SD" tvg-name="Canal Sur Andalucía 2" tvg-logo="https://i.ibb.co/Y7bGhpm/canalsur2hd.png",Canal Sur Andalucía 2
+#EXTINF:-1 tvg-id="Canal.Sur.2.es" tvg-name="Canal Sur Andalucía 2" tvg-logo="https://i.ibb.co/Y7bGhpm/canalsur2hd.png",Canal Sur Andalucía 2
 https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
 
 # 25 PTV Córdoba
@@ -115,7 +115,3 @@ https://atres-live.ondacero.es/live/ondacero/bitrate_1.m3u8
 # Cadena SER
 #EXTINF:-1 tvg-id="CadenaSER.es" tvg-name="Cadena SER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Cadena_Ser_logo-2.jpg",Cadena SER
 https://25353.live.streamtheworld.com/CADENASERAAC/HLS/playlist.m3u8
-
-
-
-
