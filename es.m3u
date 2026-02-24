@@ -8,9 +8,9 @@ https://d2jws8nf49xuk0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 # 2 La 2
 #EXTINF:-1 tvg-id="La.2.es" tvg-name="La 2" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kqgHWySi5xprs1VFCNCX0IKNT8yXBLZC43JMoB8j0JUto=s200",La 2
-# https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
+https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
 # https://ztnr.rtve.es/ztnr/1688885.m3u8
-https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
+# https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
 
 # 3 Antena 3
 #EXTINF:-1 tvg-id="Antena.3.es" tvg-name="Antena 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Antena_3_2025_%28sin_wordmark%29.svg/250px-Antena_3_2025_%28sin_wordmark%29.svg.png",Antena 3
