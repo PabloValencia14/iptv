@@ -1,21 +1,21 @@
 #EXTM3U
 
 # 1 La 1
-#EXTINF:-1 tvg-id="La.1.es" tvg-name="La 1" tvg-logo="https://pbs.twimg.com/profile_images/1921959108862709760/fe5Tqhlh_200x200.jpg",La 1
+#EXTINF:-1 tvg-id="La.1.es" tvg-name="La 1" tvg-chno="1" tvg-logo="https://pbs.twimg.com/profile_images/1921959108862709760/fe5Tqhlh_200x200.jpg",La 1
 # https://ztnr.rtve.es/ztnr/1688877.m3u8
 # http://176.65.146.237:8401/play/a09u/index.m3u8
 https://d2jws8nf49xuk0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ikffw175xm6u/La1ES.m3u8
 
 # 2 La 2
-#EXTINF:-1 tvg-id="La.2.es" tvg-name="La 2" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kqgHWySi5xprs1VFCNCX0IKNT8yXBLZC43JMoB8j0JUto=s200",La 2
+#EXTINF:-1 tvg-id="La.2.es" tvg-name="La 2" tvg-chno="2" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kqgHWySi5xprs1VFCNCX0IKNT8yXBLZC43JMoB8j0JUto=s200",La 2
 # https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
 # https://ztnr.rtve.es/ztnr/1688885.m3u8
 http://192.168.255.200:5000/la2.m3u8
 
 # 16 24 Horas
-#EXTINF:-1 tvg-id="Canal.24.h.es" tvg-name="24 Horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logo_Canal_24_horas.svg/2560px-Logo_Canal_24_horas.svg.png",24 Horas
+#EXTINF:-1 tvg-id="Canal.24.h.es" tvg-name="24 Horas" tvg-chno="13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logo_Canal_24_horas.svg/2560px-Logo_Canal_24_horas.svg.png",24 Horas
 https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vlldndmow4yre/24HES.m3u8
 
 # 17 Teledeporte
-#EXTINF:-1 tvg-id="Teledeporte.es" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" tvg-name="Teledeporte",Teledeporte GEO
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-chno="12" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" tvg-name="Teledeporte",Teledeporte GEO
 https://ztnr.rtve.es/ztnr/1712295.m3u8
