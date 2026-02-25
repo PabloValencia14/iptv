@@ -10,7 +10,7 @@ https://d2jws8nf49xuk0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="La.2.es" tvg-name="La 2" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kqgHWySi5xprs1VFCNCX0IKNT8yXBLZC43JMoB8j0JUto=s200",La 2
 # https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
 # https://ztnr.rtve.es/ztnr/1688885.m3u8
-https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8?hdnts=exp%3D1771978385~hmac%3D3a1cfe2229ffc54332ff866cee906848b39e232aa85d6e37769cbb09d374a64c&idasset=1688885
+http://192.168.255.200:5000/la2.m3u8
 
 # 16 24 Horas
 #EXTINF:-1 tvg-id="Canal.24.h.es" tvg-name="24 Horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logo_Canal_24_horas.svg/2560px-Logo_Canal_24_horas.svg.png",24 Horas
